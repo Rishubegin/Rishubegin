@@ -39,7 +39,7 @@ and enrollment platform for a tech academy.
 | [Mkai2techAcademy](https://github.com/Rishubegin/Mkai2techAcademy) | Course & enrollment platform with admin dashboard, certificates and email flows | React, Express, MongoDB | [Visit](https://mkai2tech-academy-gg6d.vercel.app) |
 | [mern-blog](https://github.com/Rishubegin/mern-blog) | Blog app with authentication and CRUD posts | MERN | [Visit](https://mern-blog-six-vert.vercel.app) |
 | [Finbridge](https://github.com/Rishubegin/Finbridge) | A complete CIBIL-like credit score management system | MERN | [Visit](https://finbridgeai.vercel.app/)|
-| [WeatherApp](https://github.com/Rishubegin/WeatherApp) | CloudCast — weather dashboard with air quality, forecasts and an interactive map | React | [Visit](https://weather-app-five-murex-73.vercel.app) |
+| [WeatherApp](https://github.com/Rishubegin/WeatherApp) | CloudCast — weather dashboard with air quality, forecasts, nearby cities and an interactive map, backed by an Express proxy API | React, Express | [Visit](https://weather-app-five-murex-73.vercel.app) |
 | [CalcExpert](https://github.com/Rishubegin/Calculator-Project) | Browser-based calculator and conversion toolkit | HTML, CSS, JavaScript | [Visit](https://rishubegin.github.io/Calculator-Project/) |
 
 ### Find me
