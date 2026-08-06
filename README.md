@@ -34,13 +34,13 @@ and enrollment platform for a tech academy.
 
 ### Some things I've built
 
-| Project | What it is | Stack |
-|---|---|---|
-| [Mkai2techAcademy](https://github.com/Rishubegin/Mkai2techAcademy) | Course & enrollment platform with admin dashboard, certificates and email flows | React, Express, MongoDB |
-| [mern-blog](https://github.com/Rishubegin/mern-blog) | Blog app with authentication and CRUD posts | MERN |
-| [Finbridge](https://github.com/Rishubegin/Finbridge.git) | A Complete CIBIL-Like Credit Score Management System | MERN |
-| [WeatherApp](https://github.com/Rishubegin/WeatherApp) | CloudCast — weather dashboard with air quality, forecasts and an interactive map | React |
-| [CalcExpert](https://github.com/Rishubegin/Calculator-Project.git) | CalcExpert is a browser-based calculator and conversion toolkit | HTML, CSS, JavaScript |
+| Project | What it is | Stack | Live |
+|---|---|---|---|
+| [Mkai2techAcademy](https://github.com/Rishubegin/Mkai2techAcademy) | Course & enrollment platform with admin dashboard, certificates and email flows | React, Express, MongoDB | [Visit](https://mkai2tech-academy-gg6d.vercel.app) |
+| [mern-blog](https://github.com/Rishubegin/mern-blog) | Blog app with authentication and CRUD posts | MERN | [Visit](https://mern-blog-six-vert.vercel.app) |
+| [Finbridge](https://github.com/Rishubegin/Finbridge) | A complete CIBIL-like credit score management system | MERN | — |
+| [WeatherApp](https://github.com/Rishubegin/WeatherApp) | CloudCast — weather dashboard with air quality, forecasts and an interactive map | React | [Visit](https://weather-app-five-murex-73.vercel.app) |
+| [CalcExpert](https://github.com/Rishubegin/Calculator-Project) | Browser-based calculator and conversion toolkit | HTML, CSS, JavaScript | [Visit](https://rishubegin.github.io/Calculator-Project/) |
 
 ### Find me
 
