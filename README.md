@@ -39,7 +39,6 @@ and enrollment platform for a tech academy.
 | [Mkai2techAcademy](https://github.com/Rishubegin/Mkai2techAcademy) | Course & enrollment platform with admin dashboard, certificates and email flows | React, Express, MongoDB |
 | [mern-blog](https://github.com/Rishubegin/mern-blog) | Blog app with authentication and CRUD posts | MERN |
 | [finbridge-client](https://github.com/Rishubegin/finbridge-client) | Frontend for Finbridge | React |
-| [devTinder](https://github.com/Rishubegin/devTinder) | "Tinder for devs" — matching app for developers | Node, Express |
 | [WeatherApp](https://github.com/Rishubegin/WeatherApp) | CloudCast — weather dashboard with air quality, forecasts and an interactive map | JavaScript |
 
 ### Find me
