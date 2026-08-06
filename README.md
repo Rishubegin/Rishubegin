@@ -38,8 +38,9 @@ and enrollment platform for a tech academy.
 |---|---|---|
 | [Mkai2techAcademy](https://github.com/Rishubegin/Mkai2techAcademy) | Course & enrollment platform with admin dashboard, certificates and email flows | React, Express, MongoDB |
 | [mern-blog](https://github.com/Rishubegin/mern-blog) | Blog app with authentication and CRUD posts | MERN |
-| [finbridge-client](https://github.com/Rishubegin/finbridge-client) | Frontend for Finbridge | React |
-| [WeatherApp](https://github.com/Rishubegin/WeatherApp) | CloudCast — weather dashboard with air quality, forecasts and an interactive map | JavaScript |
+| [Finbridge](https://github.com/Rishubegin/Finbridge.git) | A Complete CIBIL-Like Credit Score Management System | MERN |
+| [WeatherApp](https://github.com/Rishubegin/WeatherApp) | CloudCast — weather dashboard with air quality, forecasts and an interactive map | React |
+| [CalcExpert](https://github.com/Rishubegin/Calculator-Project.git) | CalcExpert is a browser-based calculator and conversion toolkit | HTML, CSS, JavaScript |
 
 ### Find me
 
