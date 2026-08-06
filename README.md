@@ -40,7 +40,7 @@ and enrollment platform for a tech academy.
 | [mern-blog](https://github.com/Rishubegin/mern-blog) | Blog app with authentication and CRUD posts | MERN |
 | [finbridge-client](https://github.com/Rishubegin/finbridge-client) | Frontend for Finbridge | React |
 | [devTinder](https://github.com/Rishubegin/devTinder) | "Tinder for devs" — matching app for developers | Node, Express |
-| [WeatherApp](https://github.com/Rishubegin/WeatherApp) | Weather lookup against a live API | JavaScript |
+| [WeatherApp](https://github.com/Rishubegin/WeatherApp) | CloudCast — weather dashboard with air quality, forecasts and an interactive map | JavaScript |
 
 ### Find me
 
